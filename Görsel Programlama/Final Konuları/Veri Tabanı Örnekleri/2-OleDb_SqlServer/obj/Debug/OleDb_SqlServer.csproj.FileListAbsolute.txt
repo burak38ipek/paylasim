@@ -1,0 +1,10 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\bin\Debug\OleDb_SqlServer.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\bin\Debug\OleDb_SqlServer.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\bin\Debug\OleDb_SqlServer.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\obj\Debug\OleDb_SqlServer.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\obj\Debug\OleDb_SqlServer.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\obj\Debug\OleDb_SqlServer.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\obj\Debug\OleDb_SqlServer.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\obj\Debug\OleDb_SqlServer.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\obj\Debug\OleDb_SqlServer.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_SqlServer\obj\Debug\OleDb_SqlServer.pdb

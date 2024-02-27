@@ -1,0 +1,10 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\bin\Debug\OleDb_Access.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\bin\Debug\OleDb_Access.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\bin\Debug\OleDb_Access.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\obj\Debug\OleDb_Access.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\obj\Debug\OleDb_Access.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\obj\Debug\OleDb_Access.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\obj\Debug\OleDb_Access.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\obj\Debug\OleDb_Access.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\obj\Debug\OleDb_Access.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\OleDb_Access\obj\Debug\OleDb_Access.pdb

@@ -1,0 +1,26 @@
+Özellikler
+-----------
+Text               - Görüntülenecek metin
+Location           - Konum
+    X, Y           - soldan, Üstten boşluk
+Size               - Boyut
+    Width, Height  - Genişlik, Yükseklik
+ForeColor          - Yazı Rengi
+BackColor          - Zemin rengi
+Autosize           - İçerdiği metne götre otomatik boyutlandırma
+Font
+    Name, Size, Unit, Bold, Italic, Underline, StrikeOut
+    Adı, Boyutu, Birim, Kalın, İtalik, Altı çizili, Üzeri çizili
+Enabled            - Kullanılabilirlik
+Visible            - Görünürlük
+Cursor             - Fare imleci
+Image              - Resim
+TabIndex           - Tab sıra numarası
+TabStop            - Tab ile üzerine gelinip gelinmeyecği
+Multiline          - Çok satırlı metin girişi
+WordWrap           - Metin kaydırma
+ReadOnly           - Salt okunurluk
+PasswordChar       - Şifre girişinde gösterilecek karakter
+TextAlign          - Metin yönü
+Dock               - Üst nesnenin kenarlarına yapıştırma
+Anchor             - Dört yöne çapa atma

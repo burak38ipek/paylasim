@@ -1,0 +1,30 @@
+C:\Users\ilhan\source\repos\Örnek1\bin\Debug\Örnek1.exe.config
+C:\Users\ilhan\source\repos\Örnek1\bin\Debug\Örnek1.exe
+C:\Users\ilhan\source\repos\Örnek1\bin\Debug\Örnek1.pdb
+C:\Users\ilhan\source\repos\Örnek1\obj\Debug\Örnek1.csprojAssemblyReference.cache
+C:\Users\ilhan\source\repos\Örnek1\obj\Debug\Örnek1.Form1.resources
+C:\Users\ilhan\source\repos\Örnek1\obj\Debug\Örnek1.Properties.Resources.resources
+C:\Users\ilhan\source\repos\Örnek1\obj\Debug\Örnek1.csproj.GenerateResource.cache
+C:\Users\ilhan\source\repos\Örnek1\obj\Debug\Örnek1.csproj.CoreCompileInputs.cache
+C:\Users\ilhan\source\repos\Örnek1\obj\Debug\Örnek1.exe
+C:\Users\ilhan\source\repos\Örnek1\obj\Debug\Örnek1.pdb
+C:\Users\User\Desktop\Not Defteri1\bin\Debug\Örnek1.exe.config
+C:\Users\User\Desktop\Not Defteri1\bin\Debug\Örnek1.exe
+C:\Users\User\Desktop\Not Defteri1\bin\Debug\Örnek1.pdb
+C:\Users\User\Desktop\Not Defteri1\obj\Debug\Örnek1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Not Defteri1\obj\Debug\Örnek1.Form1.resources
+C:\Users\User\Desktop\Not Defteri1\obj\Debug\Örnek1.Properties.Resources.resources
+C:\Users\User\Desktop\Not Defteri1\obj\Debug\Örnek1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Not Defteri1\obj\Debug\Örnek1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Not Defteri1\obj\Debug\Örnek1.exe
+C:\Users\User\Desktop\Not Defteri1\obj\Debug\Örnek1.pdb
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\bin\Debug\Örnek1.exe.config
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\bin\Debug\Örnek1.exe
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\bin\Debug\Örnek1.pdb
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\obj\Debug\Örnek1.csproj.AssemblyReference.cache
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\obj\Debug\Örnek1.Form1.resources
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\obj\Debug\Örnek1.Properties.Resources.resources
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\obj\Debug\Örnek1.csproj.GenerateResource.cache
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\obj\Debug\Örnek1.csproj.CoreCompileInputs.cache
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\obj\Debug\Örnek1.exe
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Not Defteri1\obj\Debug\Örnek1.pdb

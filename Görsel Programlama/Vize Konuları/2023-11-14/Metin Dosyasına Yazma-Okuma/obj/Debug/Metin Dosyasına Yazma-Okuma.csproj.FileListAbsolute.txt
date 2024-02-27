@@ -1,0 +1,30 @@
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.csprojAssemblyReference.cache
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\obj\Debug\Metin_Dosyasına_Yazma_Okuma.Form1.resources
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\obj\Debug\Metin_Dosyasına_Yazma_Okuma.Properties.Resources.resources
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.csproj.GenerateResource.cache
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.csproj.CoreCompileInputs.cache
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\bin\Debug\Metin Dosyasına Yazma-Okuma.exe.config
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\bin\Debug\Metin Dosyasına Yazma-Okuma.exe
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\bin\Debug\Metin Dosyasına Yazma-Okuma.pdb
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.exe
+D:\Google Drive\Visual Studio\WindowsForms\_Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.pdb
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.csprojAssemblyReference.cache
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin_Dosyasına_Yazma_Okuma.Form1.resources
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin_Dosyasına_Yazma_Okuma.Properties.Resources.resources
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.csproj.GenerateResource.cache
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.csproj.CoreCompileInputs.cache
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.exe
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.pdb
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\bin\Debug\Metin Dosyasına Yazma-Okuma.exe.config
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\bin\Debug\Metin Dosyasına Yazma-Okuma.exe
+D:\Google Drive\Visual Studio\WindowsForms\1-Güz\Metin Dosyasına Yazma-Okuma\bin\Debug\Metin Dosyasına Yazma-Okuma.pdb
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\bin\Debug\Metin Dosyasına Yazma-Okuma.exe.config
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\bin\Debug\Metin Dosyasına Yazma-Okuma.exe
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\bin\Debug\Metin Dosyasına Yazma-Okuma.pdb
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.csproj.AssemblyReference.cache
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin_Dosyasına_Yazma_Okuma.Form1.resources
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin_Dosyasına_Yazma_Okuma.Properties.Resources.resources
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.csproj.GenerateResource.cache
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.csproj.CoreCompileInputs.cache
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.exe
+C:\Users\umehm\OneDrive\Masaüstü\2. Sınıf Güz Dönemi\Görsel Programlama\1. Öğretim\2023-11-14\Metin Dosyasına Yazma-Okuma\obj\Debug\Metin Dosyasına Yazma-Okuma.pdb

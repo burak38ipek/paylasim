@@ -1,0 +1,15 @@
+1- SqlClient
+     Sql Server
+        SorguCümlesi
+        SqlConnection
+        SqlCommand
+            ExecuteNonQuery (insert, delete, update, create)
+            ExecuteReader   (select)
+
+2- OleDb
+     Access
+     Sql Server
+     Excel
+     :
+     :
+     
